@@ -4,3 +4,4 @@
 * You can find the installation guide in the file named "Installation-Guide". <br></br>
 * The folder named "elidek_scripts" contains the DDL and DML files. <br></br>
 * The folder named "php_files" contains all the necessary files to run the website. <br></br>
+* In the file named "Design Decisions" you can find information about the relational diagram as well as the triggers, indexes and constraints used.
