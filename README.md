@@ -1,4 +1,7 @@
 # Elidek-Database
+
+This is a project for the Databases class (6th semester, ECE NTUA, 2022). It is a full stack application for an organization that funds and controls research projects in Greece.
+
 <h3> Project Team 72 (el19068, el19084, el19171) </h3>
 
 * You can find the installation guide in the file named "Final Report". <br></br>
